@@ -1,0 +1,50 @@
+.d-textbox{
+  margin-left: 25px;
+  position: absolute;
+  display: flex;
+}
+
+.d-text{
+  position: absolute;
+  display: flex;
+  margin-top: 200px;
+  margin-left: 60px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(100, 205, 237);
+  font-size: 110px;
+  font-weight: bold;
+  text-decoration: underline;
+  width: 800px;
+}
+
+.d-backdrop{
+  background-color: rgb(245, 245, 245);
+  width: 1140px;
+  height: 1100px;
+  margin-top: 150px;
+  position: absolute;
+  display: flex;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+
+.d-text2{
+  margin-top: 550px;
+  position: absolute;
+  display: flex;
+  width: 80px;
+  margin-left: 60px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(100, 205, 237);
+  font-weight: 500;
+  width: 800px;
+  font-size: 45px;
+}
+
+.image-d{
+  position: absolute;
+  display: flex;
+  right: 60px;
+  top: 300px;
+  width: 1200px;
+}
